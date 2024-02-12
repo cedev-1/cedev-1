@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Célian</h1>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" width="1000">
+![gif](https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif)
 <h1></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedev-1&show_icons=true&theme=synthwave)
