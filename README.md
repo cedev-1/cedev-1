@@ -20,6 +20,4 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 
-<h1></h1>
 
-![Image](https://tryhackme-badges.s3.amazonaws.com/Cedev001.png)
