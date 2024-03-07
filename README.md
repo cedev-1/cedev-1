@@ -5,9 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedev-1&show_icons=true&theme=synthwave)
 
-## 🕺🏼 About Me :
-- 🔭 I’m currently working on my Skills.
-- 🤔 I’m looking for help with Exploring New Technologies.
 
 ## 💻 Tech Stack :
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
