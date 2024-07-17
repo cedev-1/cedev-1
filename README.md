@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm C</h1>
-
 ![gif](https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif)
 <h1></h1>
 
