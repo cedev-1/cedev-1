@@ -1,4 +1,4 @@
-![gif]([https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif](https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif))
+![gif](https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif))
 <h1></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedev-1&show_icons=true&theme=synthwave)
